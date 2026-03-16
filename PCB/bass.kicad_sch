@@ -7546,7 +7546,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4f6a5f39-1dd9-47ea-b761-ce3afc3b3979")
-		(property "Reference" "U2Unit1"
+		(property "Reference" "U2"
 			(at 246.38 95.2499 0)
 			(effects
 				(font
@@ -7618,7 +7618,7 @@
 		(instances
 			(project ""
 				(path "/9a75853d-3653-4ddd-a04a-f8cd049113a5"
-					(reference "U2Unit1")
+					(reference "U2")
 					(unit 3)
 				)
 			)
@@ -11750,7 +11750,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e6f19b12-4848-42e7-8cab-81a2a2352126")
-		(property "Reference" "U2Unit1"
+		(property "Reference" "U2"
 			(at 265.43 16.51 0)
 			(effects
 				(font
@@ -11820,7 +11820,7 @@
 		(instances
 			(project ""
 				(path "/9a75853d-3653-4ddd-a04a-f8cd049113a5"
-					(reference "U2Unit1")
+					(reference "U2")
 					(unit 2)
 				)
 			)
@@ -12416,7 +12416,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd6f4008-ceec-4387-92b3-1a032818687a")
-		(property "Reference" "U2Unit1"
+		(property "Reference" "U2"
 			(at 219.71 20.32 0)
 			(effects
 				(font
@@ -12486,7 +12486,7 @@
 		(instances
 			(project ""
 				(path "/9a75853d-3653-4ddd-a04a-f8cd049113a5"
-					(reference "U2Unit1")
+					(reference "U2")
 					(unit 1)
 				)
 			)
