@@ -15,6 +15,10 @@ The PCB
 <img width="738" height="562" alt="image" src="https://github.com/user-attachments/assets/8e956405-142d-4463-9f9e-7b3ce557d70a" />
 <img width="1312" height="1161" alt="image" src="https://github.com/user-attachments/assets/40957949-81ef-44ae-8ec2-559b4c8b76af" />
 
+Wiring diagram:
+<img width="1488" height="877" alt="image" src="https://github.com/user-attachments/assets/eed32bd3-2f5c-42be-974f-d5aa8b4a8d51" />
+
+
 The bom can be found in the bom.csv!
 
 This was made (JUST IN TIME) for hack clubs blueprint program, which has been awesome!
