@@ -1,0 +1,55 @@
+Part Name,Quantity,Price (USD),Source,Link,Notes
+JLCPCB PCB Order (90x80mm 2-layer FR4 x5),1,$7.18,JLCPCB,https://jlcpcb.com/,Incl. shipping + tax. Global Standard Direct Line
+OPA2134PA DIP-8 (U1),1,$6.98,LCSC,https://www.lcsc.com/product-detail/C1346118.html?,
+NJM4556AD DIP-8 (U2),1,$0.51,LCSC,https://www.lcsc.com/product-detail/C2838125.html,
+TLE2426CLP TO-92 (U3),1,$3.36,Digikey,https://www.digikey.com/en/products/detail/texas-instruments/TLE2426CLP/276234,
+DIP-8 IC Sockets,2,$1.84,LCSC,https://www.lcsc.com/product-detail/C2874007.html,For U1 and U2
+1N5819 Schottky Diode DO-41 (D1),1,$0.59,LCSC,https://www.lcsc.com/product-detail/C402218.html,Reverse polarity protection
+100uH Radial Power Inductor (L1),1,$1.54,LCSC,https://www.lcsc.com/product-detail/C5119631.html,Drum-core. 200mA+ sat current. DCR under 2 ohm
+Resistor 0R axial (R_in_prot + R_damp),2,$8.17,LCSC,Kit: https://www.aliexpress.us/item/3256806831693280.html,Wire links. 1/4W axial through-hole
+Resistor 2.2R axial (R_stab),1,Included,LCSC,,1/4W metal film
+Resistor 10R axial (R8 + R11),2,Included,LCSC,,1/4W metal film
+Resistor 100R axial (R2 + R_bias),2,Included,LCSC,,1/4W metal film
+Resistor 2.2K axial (R_LED),1,Included,LCSC,,1/4W metal film
+Resistor 10K axial (x10),10,Included,LCSC,,R_flat_in/fb R_treble1/2 R_fb1/2 R_gain1/2 R_bleed1/2
+Resistor 22K axial (x3),3,Included,LCSC,,R_bass1/2 R_treble3
+Resistor 470K axial (x2),2,Included,LCSC,,R_bias_hp1/2
+Resistor 1M axial (R1),1,Included,LCSC,,Buffer input bias
+100nF Ceramic Disc Cap 50V (x6),6,$1.38,AliExpress,https://www.aliexpress.us/item/3256805724293323.html,C2 C4 C_byp_U1 C_byp_U2 C_vref_U1 C_vref_U2. 5mm pitch
+1nF Ceramic Disc Cap (C_bias),1,$1.63,AliExpress,https://www.aliexpress.us/item/3256802327709422.html,"5mm pitch, 1000pf"
+100uF 25V Electrolytic Radial (x3),3,$0.56,LCSC,https://www.lcsc.com/product-detail/C47344175.html,C1 C_pwr_U1 C_pwr_U2. 3.5mm pitch
+1000uF 10V Electrolytic Radial (C3),1,$0.61,LCSC,https://www.lcsc.com/product-detail/C49256787.html,VREF reservoir. 5mm lead spacing
+470uF 10V Electrolytic Radial (x2),2,$0.78,LCSC,https://www.lcsc.com/product-detail/C51904456.html,C_hp_out1 C_hp_out2. 5mm pitch
+1uF Film Cap (x3),3,$4.20,AliExpress,https://www.aliexpress.us/item/3256806983416179.html,"C_in C_hp_in1 C_hp_in2. 5mm pitch polyester, Color: 100v 0.1uF 5P"
+1nF Film Cap (C_treble),1,$1.53,AliExpress,https://www.aliexpress.us/item/3256808657561743.html,Treble wiper series cap. 5mm pitch
+2.2uF Film Cap (C_vol),1,$4.26,AliExpress,https://www.aliexpress.us/item/3256803936423484.html,EQ output AC coupling. 10mm ish pitch
+47nF Film Cap (C_bass),1,$2.98,AliExpress,https://www.aliexpress.us/item/3256808657558959.html,OFF-BOARD: soldered across bass pot lugs pin1-pin3
+Pin Header Strip 1x40 2.54mm,1,$0.74,LCSC,https://www.lcsc.com/product-detail/C2337.html,Cut to size for 9 connectors (26 pins total)
+MT3608 DC-DC Boost Converter Module,1,$4.33,AliExpress,https://www.aliexpress.us/item/3256811342611791.html,Boosts 3.7V to 9V. 
+TP4056 USB-C Li-Ion Charging Module,1,$6.42,AliExpress,https://www.aliexpress.us/item/3256807940520587.html,USB-C charger with protection. 
+18650 Battery Holder (single cell),1,$2.11,AliExpress,https://www.aliexpress.us/item/3256809280893834.html?,Single cell holder with wire leads
+DPDT Toggle Switch ON-ON 6-pin,1,$3.73,AliExpress,https://www.aliexpress.us/item/2251832829462679.html,Active/passive bypass. Measure dims before CAD
+LED 3mm,1,$0.00,I have LEDs,,Power indicator. Off-board via header
+Adhesive Copper Foil Tape,1,$2.64,AliExpress,https://www.aliexpress.us/item/3256802931706214.html,EMI shielding for control cavity
+22AWG Stranded Hookup Wire,1,$0.00,From previous project,,Off-board wiring: pots/pickup/jacks/switch/bridge ground
+Seymour Duncan SPB-1 Vintage P-Bass Pickup,1,$99.00,Amazon,https://www.amazon.com/Seymour-Duncan-SPB-1-Vintage-Split-coil/dp/B001FXQDVQ,Split-coil P-bass pickup
+Gotoh 201B-4 Bass Bridge (Chrome),1,$46.49,Amazon,https://www.amazon.com/GOTOH-201B-4-4-String-Bridge-spacing/dp/B00FGUN948,4-string. Includes mounting screws
+CTS 250K Audio Taper Pot (A250K),1,$13.88,Amazon,https://www.amazon.com/A250K-Standard-Potentiometer-Electric-Guitar/dp/B0DSW4B33P/ref=sr_1_2?crid=28KOU1LSM2QH8&dib=eyJ2IjoiMSJ9.o24HuBPVsCc9n66_yZjqObDHjgKeQHKvMb6cvjTwe_oJ4QDKufvWdSg6zdcqQubZeTOErzyZduUuwBhXsswU1wSiVptpGPZ4PCluD5LJFTfhD9K31DPxcPDQBNJnNyD_s6QgdDWVp_3EaG8vuXDZzJP9SkL20F2zRJhAUKldF5zHy5R1Adk2t40gzLBE0MCwFy1M9GZvAGniOskfe3804Ky93DqdY2N3UB-byvrumgzppPwSB5K-TrioA3FY8SCu_4hPgD9XlQXtwAclRO-dkGnQpp5xGBPcZzXPyAWKJeA.zZGADWyCY69qurQgfv83unE_-6f4A63ztTocoypHlLg&dib_tag=se&keywords=CTS%2BA250K%2Bpot%2Blong%2Bshaft%2Bsolid%2Bshaft&qid=1774994307&s=musical-instruments&sprefix=cts%2Ba250k%2Bpot%2Blong%2Bshaft%2Bsolid%2Bshaf%2Cmi%2C159&sr=1-2&th=1,Volume pot. LONG SHAFT if 12mm body face
+100K Linear Pot B100K (x2),2,$9.99,Amazon,https://www.amazon.com/TWTADE-Potentiometer-Single-Variable-Aluminum/dp/B07DHGR3ST/ref=sr_1_3?dib=eyJ2IjoiMSJ9.KiwnT9_MXAtHnsGVwB_3CMzpK2L6fVmsKoTU5AhXJneV7CEfcCcJKTTFsJFgEc3rv5QtgZjpxr_oh9WuKulzRyT389IHRE3Sov-xXMhlWF02Fkf3v-qxutk5N5-gQh2sY_PM1cgMiWsQMy0FP_7bt_GTdaBzBa5Lc17z6fsjQnNCJPSSE6tZZanZYFSdSzcrnos0qKYV9w1pwYqvPGMBILVaaJ9k4o1q-Nr2hc6YFGM.y0X2Z97UW3D2T1kPxoQ1L0v2fdyhS08TH9pNWK7ni50&dib_tag=se&keywords=CTS%2B100K%2Blinear%2Bpotentiometer&qid=1774974563&sr=8-3&th=1,Bass + Treble EQ pots. Long shaft preferred
+Switchcraft #11 Mono 1/4in Output Jack,1,$9.75,Amazon,https://www.amazon.com/SWITCHCRAFT-11-Female-Panel-Mount/dp/B0CPZCXMK7/ref=sr_1_2?dib=eyJ2IjoiMSJ9.lHayjPiCi7Dy7L4DCK_0LTMP1DBp1RMJBckUz9zmCE6gw9UKLJMAXkRew7DwaLsYt4Cpjssp2kvGyHv89LLfhkewIXTBbic5H4hmgVDA0RliG_-pkdqVgTWktNEcH_n_Ft52v9MvF_a5eAyUX7aANepL7YlZjUBL3cz9Q6vKeAe0HUub2pPv9vVWyltKLEU5h4XJfMq8WIXN_f7VgwMRB4xBdAQ1wyPtXs2r_cZWUXA.mVa6ej3sQhSf7iEj8iKYoN2xOPiXtAfyPUBU8X9OozM&dib_tag=se&keywords=Switchcraft-11-Mono-Phone-Jack&qid=1774974623&sr=8-2,Line output. 3/8-32 thread. 9.53mm hole
+3.5mm Panel Mount Stereo Jack,1,$5.99,Amazon,https://www.amazon.com/BLLNDX-Stereo-Female-Headphone-Connector/dp/B09B7JKSQ1/ref=sr_1_4?dib=eyJ2IjoiMSJ9.DVnxm0V_KCo3myTaSMrvTij6TiLkbX8m6grnEhPUyZ2OG_SMQ-wYK0pXJa-VM-0mE8sSqxrig8tt2mkcdLi4YWTCjUCIqIgsQz7DUNoc_LBa77oVqGKDORlKSTT9RYT12t0i2LyF65Wsdxvbzk-4_24D0S4vtyzUZO60ngspfUtbP97re4WxW2xQr2mPgoxFmbsMlFL223K94dbl_nOiCI49KorkcmBS4yMm7rc8cARo4FihFXzyx2voCwgmAR_AoH2b3C1dshJMnJlKkRl_1xTeWQ0nrCccJqy4pcgNIMo.mgwnqeUBPlErkjtbT8JkJSZgzHUeHJzdFW6xA9qIe3M&dib_tag=se&keywords=3.5mm+Panel+Mount+Stereo+Jack&qid=1774974672&s=electronics&sr=1-4,Headphone output. Measure before finalizing CAD hole
+Schaller S-Locks Strap Locks (Pair Chrome),1,$32.49,Amazon,https://www.amazon.com/Schaller-Locks-Guitar-Buttons-Chrome/dp/B07F7DSBYW,Size M 4.0mm thread for PA6-CF body
+Fender-Style Bass Neck Plate (4-bolt),1,$11.49,Amazon,https://www.amazon.com/Fender-4-Bolt-Vintage-Style-Plate-Plain/dp/B0002KZF8U/ref=sr_1_2?dib=eyJ2IjoiMSJ9.d36rcoD9zcVUhc6WrSKCOWYvUFTSfO9HX1SO8M4qE9NZs9E0X4cg7w2t7WB-NseCsWpElI8rMK5aZ7weXMRy294tEm39uAEGcgZYOwyy03gIR-UueYl3M2zg-iEzdh9LJPTjSPvTKXhMPhPYrwwWub7H1PQetIA35xIJoJXCCM_0D65aOeEew4ra-dm_EJPO8P_SO7QCMBcOxbKaUuZtYZJiOLJSZmpa_fYsz5cGRM1u8qWKGuRPfN0X_jVvjlXJ8onpG6vShpN9EvXjT_AkPqJ8zBe77gt1TWMDyfYQ28Y.PuDFLet-7y4W374dwrRcLwUwhF1FGmq9F2yJvgwxFwc&dib_tag=se&keywords=fender%2Bbass%2Bneck%2Bplate%2B4%2Bbolt&qid=1774974718&sr=8-2&th=1,Distributes bolt force on 3D-printed body
+18650 Li-Ion Battery,1,$7.74,AliExpress,https://www.aliexpress.us/item/3256811753613609.html,3.7V rechargeable.
+Bass Guitar Strings 45-105,1,$0.00,Will get in person,,Standard 34in scale roundwound
+Pot Knobs 1/4in Solid Shaft (set of 3+),1,$7.64,Amazon,https://www.amazon.com/gonymask-Control-Telecaster-PaulGuitar-Accessories/dp/B0F64W28K5/ref=sr_1_10?dib=eyJ2IjoiMSJ9.J_3V0s4CeF34vhvSAepaBMzqKfcXhgLt-vhIipFarcg4qhjy1LmZ1SkyGsOjpbZgRX0--pOGOSH91JNX2ogKcP095DiVrz9sZxM7ALbszNWhrU9xa-uVU-rHwzcikPSJR_gstOWDrXBRCTlt-93ueib7zl6syPWVX8abZrQeF346nZXSM1WjPAJdho-WjenqXeV_wyAo-dQ_WeRIUJuKKdabJtWmzgc7CwwkbpWJR7LDsJ6C8fm3QmWmqnUFH8vNxr-bTnAxqa1vJhic6AzEv1_3m5DwQtr-SMK-ThYDLY0.x0UJPxX5uNJpi4MUK5MHy1fThuwpZAiqXqA0txn-c_M&dib_tag=se&keywords=guitar%2Bpot%2Bknobs%2Bsolid%2Bshaft%2Bset%2Bscrew&qid=1774974961&sr=8-10&th=1,For volume + bass + treble pots
+M3 Heat-Set Inserts (50 pack),1,$0.00,From previous project,,Bridge(5) pickup(4) covers(~12) battery(4). ~25 needed
+M4 Heat-Set Inserts (10+ pack),1,$0.00,From previous project,,Neck mounting x4. M4 x 12mm depth
+M3 Machine Screws Assorted Kit,1,$9.99,Amazon,amazon.com/Fgruh-750PCS-Assortment-Washers-Assorted/dp/B0FGV5FCBN/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.TEeF4awxyePoe3vNhqiBQr0P_DmHv8ymUY8Qqx9WQ1FUXAzHaqn7Y8y5g9azicuwQtHiXo6NQLmPv56URUvkhMUymaUDJFJvw-HmGF4NkiRx3JDhtSwcc84dLESBAIK-02oN7P5qS4EYkA_d_vIJnD2VUQ23f98Jo7s_LfoW4BGmwW6VNMbu751flLsCLy78MkTjO58lVkEH-jfCIarzY39CZAPClaqvW_Afgxvuag4.491EHZPTOLb2_PdZ3IK-6gZMYVEv3uiP9oqsxlO1m2U&dib_tag=se&keywords=M3+machine+screw+assortment+kit&qid=1774975024&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1,Bridge + pickup + cavity cover mounting
+M4 x 45mm Machine Screws (x4),4,$2.96,AliExpress,https://www.aliexpress.us/item/3256804067895917.html,m4 x 45
+Gorilla 2-Part Epoxy,1,$5.97,Amazon,https://www.amazon.com/Gorilla-Part-Epoxy-Minute-ounce/dp/B001Z3C3AG?th=1,Bonding center piece to wing pieces
+Micro-Mesh Sanding Kit,1,$18.19,Amazon,https://www.amazon.com/Micro-Mesh-Pen-Sanding-Kit/dp/B0037MEIT2/ref=sr_1_3?dib=eyJ2IjoiMSJ9.swXUTGyuM5Fn48wf6OItkOAqVGGDhK8I_t1YCZPXYBjO86RtOM77-ah7kYJlf49Q2kJ42tP1UGvCblZu5k6vfRnUpfcv6zlG4OeLU8Stg0WJQu4Zmn8bIlHxCXkFx5QGZX88TtY8HPZuZgkfQ2t_CF5ev_Abqzbls_3_05XJzmPSPLG9Binlh3RzTwZalUZnEMtxuevHHX3_J4hqik2Ccc048-eadk1V2kKuROhSMqE.IJ5RwI3_22UXBh-UFRSrIoyVn3SH2RTv-MXEFGg4Mt8&dib_tag=se&keywords=Micro-Mesh+Sanding+Kit&qid=1774975518&sr=8-3,Finishing wood PLA. 220-1500 grit
+Danish Oil (pint),1,$0.00,Borrowed from teacher,,Finish for wood PLA wings
+PA6-CF Filament (center piece),1,$0.00,Printing Legion,,
+Wood PLA Filament (wings),1,$0.00,Printing Legion,,
+Warmoth P-Bass Neck (4-string 34in scale),1,$0.00,Donated,https://warmoth.com,Donated by Warmoth Guitar Products. Standard Fender P-bass geometry
